@@ -46,6 +46,9 @@ Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu 
 lung mass biopsy procedure based on the multi-objective constraints and fuzzy optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad2c9f)
 
 **Jiayu Zhang†**, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
+
+In this work, we proposed a multi-constrained objective optimization model based on clinical criteria for the percutaneous puncture lung mass biopsy procedure. Based on fuzzy optimization, a multidimensional spatial Pareto front algorithm has been developed for optimal path selection. The algorithm finds optimal paths, which are displayed on 3D images, and provides reference points for clinicians’surgical path planning.
+
 </div>
 </div>
 
