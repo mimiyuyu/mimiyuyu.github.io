@@ -51,7 +51,7 @@ lung mass biopsy procedure based on the multi-objective constraints and fuzzy op
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCISP2023</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
+[A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809)
 
 Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
 </div>
@@ -67,8 +67,8 @@ Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang 
 </div>
 
 # 🎖 Honors and Awards
-- *2024.02*  **Excellent Paper Award** in 2023 by the Asia Pacific Institute of Science and Engineering. 
-- *2023.11*  **Excellent Oral Presentation** in the Technical Session and the Best Presenter of CCISP 2023.
+- *2024.02*  **Excellent Paper Award** in 2023 by the **A**sia **P**acific **I**nstitute of **S**cience and **E**ngineering (APISE). 
+- *2023.11*  **Excellent Oral Presentation** in CCISP 2023.
 - *2022.11*  **Best Paper Award** in International **C**onference on **C**ommunication, **I**mage and **S**ignal **P**rocessing (CCISP). 
 
 # 📖 Educations
@@ -76,6 +76,6 @@ Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang 
 - <img src='images/scu.png' alt="sym" width="5%"> *2018.09 - 2022.06*, B.Eng. in Medical Information Engineering, Sichuan University. 
 
 # 💬 Talks
-- * Nov. 2023*, “A Virtual Surgery System for Lung Biopsy”, contributed talk at CCISP 2023. (Chengdu, China)
-- * Nov. 2022*, “CT-guided automatic path planning for lung puncture”, contributed talk at CCISP 2022. (Chengdu, China)
+- *2023,11*, “A Virtual Surgery System for Lung Biopsy”, contributed talk at CCISP 2023. (Chengdu, China)
+- *2022.11*, “CT-guided automatic path planning for lung puncture”, contributed talk at CCISP 2022. (Chengdu, China)
 
