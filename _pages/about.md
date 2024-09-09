@@ -21,6 +21,8 @@ I'm a third year graduate student at College of Biomedical Engineering, [Sichuan
 
 My research interest includes Computational Pathology and Biomedical Image Processing.
 
+I am deeply indebted to everyone who has supported me in my academic career.
+
 
 
 # 🔥 News
