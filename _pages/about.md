@@ -24,7 +24,7 @@ My research interest includes Computational Pathology and Biomedical Image Proce
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Our work about pathology foundation model has been accepted by Nature!
+- *2024.09*: &nbsp;🎉🎉 Our work about pathology foundation model has been accepted by **Nature**!
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by Physics in Medicine & Biology. 
 - *2022.06*: &nbsp;🎉🎉 I graduated from Sichuan University with a bachelor's degree. 
 
