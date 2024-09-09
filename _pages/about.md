@@ -37,10 +37,7 @@ My research interest includes Computational Pathology and Biomedical Image Proce
 
 Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu Zhang**, Ruijiang Li, Hongping Tang, Kanran Wang, Yu Li, Fang Wang, Yulong Peng, Junyou Zhu, Jing Zhang, Christopher R. Jackson, Jun Zhang, Deborah Dillon, Nancy U. Lin, Lynette Sholl, Thomas Denize, David Meredith, Keith L. Ligon, Sabina Signoretti, Shuji Ogino, Jeffrey A. Golden, MacLean P. Nasrallah, Xiao Han, Sen Yang#, Kun-Hsing Yu#
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine & Biology</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Path planning algorithm for percutaneous puncture
@@ -48,13 +45,14 @@ lung mass biopsy procedure based on the multi-objective constraints and fuzzy op
 
 **Jiayu Zhang†**, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
 
 Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CT-guided automatic path planning for lung puncture](https://ieeexplore.ieee.org/document/9974252)
