@@ -47,7 +47,8 @@ lung mass biopsy procedure based on the multi-objective constraints and fuzzy op
 
 **Jiayu Zhang†**, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
 
-In this work, we proposed a multi-constrained objective optimization model based on clinical criteria for the percutaneous puncture lung mass biopsy procedure. Based on fuzzy optimization, a multidimensional spatial Pareto front algorithm has been developed for optimal path selection. The algorithm finds optimal paths, which are displayed on 3D images, and provides reference points for clinicians’surgical path planning.
+
+-In this work, we proposed a multi-constrained objective optimization model based on clinical criteria for the percutaneous puncture lung mass biopsy procedure. Based on fuzzy optimization, a multidimensional spatial Pareto front algorithm has been developed for optimal path selection. The algorithm finds optimal paths, which are displayed on 3D images, and provides reference points for clinicians’surgical path planning.
 
 </div>
 </div>
@@ -57,6 +58,9 @@ In this work, we proposed a multi-constrained objective optimization model based
 [A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809)
 
 Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
+
+
+-In this work, we designed an advanced preoperative rehearsal system for lung puncture biopsy surger, which enables the creation of threedimensional model of both the lung and the puncture needle. It mechanically models the skin, fat and muscle of the chest wall to establish a virtual surgical rehearsal environment combined with force feedback technology, leads to high degree of effectiveness and clinical value that can serve as an auxiliary tool in lung puncture surgery. 
 </div>
 </div>
 
@@ -66,6 +70,9 @@ Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Den
 [CT-guided automatic path planning for lung puncture](https://ieeexplore.ieee.org/document/9974252)
 
 Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang Gong, Jing Zhang#
+
+
+-An automatic CT image-based path planning method for lung puncture surgery is proposed due to high failure rate, time consumption, and the high radiation dose of the existing percutaneous lung puncture surgery. In this work, we implemented automatic organ segmentation of chest CT images and defined six constraining conditions combined with clinical a priori knowledge to find the optimal puncture path using a multi-objective Pareto optimization method. 
 </div>
 </div>
 
