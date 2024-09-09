@@ -36,6 +36,8 @@ My research interest includes Computational Pathology and Biomedical Image Proce
 [A pathology foundation model for cancer diagnosis and prognosis prediction](https://www.nature.com/articles/s41586-024-07894-z)
 
 Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu Zhang**, Ruijiang Li, Hongping Tang, Kanran Wang, Yu Li, Fang Wang, Yulong Peng, Junyou Zhu, Jing Zhang, Christopher R. Jackson, Jun Zhang, Deborah Dillon, Nancy U. Lin, Lynette Sholl, Thomas Denize, David Meredith, Keith L. Ligon, Sabina Signoretti, Shuji Ogino, Jeffrey A. Golden, MacLean P. Nasrallah, Xiao Han, Sen Yang#, Kun-Hsing Yu#
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics in Medicine & Biology</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
