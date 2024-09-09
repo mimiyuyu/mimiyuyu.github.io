@@ -49,7 +49,7 @@ lung mass biopsy procedure based on the multi-objective constraints and fuzzy op
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCISP2023</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
 
@@ -57,7 +57,7 @@ Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Den
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCISP2022</div><img src='images/paper4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CT-guided automatic path planning for lung puncture](https://ieeexplore.ieee.org/document/9974252)
