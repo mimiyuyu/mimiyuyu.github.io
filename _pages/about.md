@@ -37,6 +37,14 @@ My research interest includes Computational Pathology and Biomedical Image Proce
 
 Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu Zhang**, Ruijiang Li, Hongping Tang, Kanran Wang, Yu Li, Fang Wang, Yulong Peng, Junyou Zhu, Jing Zhang, Christopher R. Jackson, Jun Zhang, Deborah Dillon, Nancy U. Lin, Lynette Sholl, Thomas Denize, David Meredith, Keith L. Ligon, Sabina Signoretti, Shuji Ogino, Jeffrey A. Golden, MacLean P. Nasrallah, Xiao Han, Sen Yang#, Kun-Hsing Yu#
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Path planning algorithm for percutaneous puncture
+lung mass biopsy procedure based on the multi-objective constraints and fuzzy optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad2c9f)
+
+Jiayu Zhang†, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
