@@ -40,10 +40,26 @@ Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
+
+Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Path planning algorithm for percutaneous puncture
 lung mass biopsy procedure based on the multi-objective constraints and fuzzy optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad2c9f)
 
-Jiayu Zhang†, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
+**Jiayu Zhang†**, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CT-guided automatic path planning for lung puncture](https://ieeexplore.ieee.org/document/9974252)
+
+Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang Gong, Jing Zhang#
 
 # 🎖 Honors and Awards
 - *2024.02* **Excellent Paper Award** in 2023 by the Asia Pacific Institute of Science and Engineering. 
