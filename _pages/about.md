@@ -76,6 +76,6 @@ Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang 
 - <img src='images/scu.png' alt="sym" width="5%"> *2018.09 - 2022.06*, B.Eng. in Medical Information Engineering, Sichuan University. 
 
 # 💬 Talks
-- * Nov. 2023*, “A Virtual Surgery System for Lung Biopsy”, contributed talk at CCISP 2023. (Chengdu, China)v
-- * Nov. 2022*, “CT-guided automatic path planning for lung puncture”, contributed talk at CCISP 2022. (Chengdu, China)v
+- * Nov. 2023*, “A Virtual Surgery System for Lung Biopsy”, contributed talk at CCISP 2023. (Chengdu, China)
+- * Nov. 2022*, “CT-guided automatic path planning for lung puncture”, contributed talk at CCISP 2022. (Chengdu, China)
 
