@@ -40,12 +40,6 @@ Xiyue Wang†, Junhan Zhao†, Eliana Marostica, Wei Yuan, Jietian Jin, **Jiayu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
-
-Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +47,12 @@ Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Den
 lung mass biopsy procedure based on the multi-objective constraints and fuzzy optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad2c9f)
 
 **Jiayu Zhang†**, Jing Zhang, Ping Han, Xinzu Chen, Yu Zhang, Wen Li, Jing Qin and Ling He#
+
+
+[A Virtual Surgery System for Lung Biopsy](https://ieeexplore.ieee.org/abstract/document/10355809))
+
+Jianquan Zhong†, Fulian Zhong, Ling Tang, **Jiayu Zhang**, Hao Feng, Jiran Deng, He Ling and Jing Zhang#
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">nature</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
