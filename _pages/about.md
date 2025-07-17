@@ -26,6 +26,7 @@ I am deeply indebted to everyone who has supported me in my academic career.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 I graduated from Sichuan University with a master's degree.
 - *2024.09*: &nbsp;🎉🎉 Our work about pathology foundation model has been accepted by **Nature**!
 - *2023.02*: &nbsp;🎉🎉 One paper accepted by Physics in Medicine & Biology. 
 - *2022.06*: &nbsp;🎉🎉 I graduated from Sichuan University with a bachelor's degree. 
