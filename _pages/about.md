@@ -80,6 +80,7 @@ Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.06*  **Outstanding Graduate Student of Sichuan Province**.
 - *2024.02*  **Excellent Paper Award** in 2023 by the **A**sia **P**acific **I**nstitute of **S**cience and **E**ngineering (APISE). 
 - *2023.11*  **Excellent Oral Presentation Award** in CCISP 2023.
 - *2022.11*  **Best Paper Award** in International **C**onference on **C**ommunication, **I**mage and **S**ignal **P**rocessing (CCISP). 
