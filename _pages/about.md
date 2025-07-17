@@ -85,7 +85,8 @@ Jianquan Zhong†, Jinyang Shen, Ling Tang, Ruizhi Hao, **Jiayu Zhang**, Yuhang 
 - *2022.11*  **Best Paper Award** in International **C**onference on **C**ommunication, **I**mage and **S**ignal **P**rocessing (CCISP). 
 
 # 📖 Educations
-- <img src='images/scu.png' alt="sym" width="5%"> *2022.09 - now*, M.Sc. in Biomedical Engineering, Sichuan University. 
+- <img src='images/scu.png' alt="sym" width="5%"> *2025.07 - now*, Ph.D. in Biomedical Engineering, Sichuan University. 
+- <img src='images/scu.png' alt="sym" width="5%"> *2022.09 - 2025.06*, M.Sc. in Biomedical Engineering, Sichuan University. 
 - <img src='images/scu.png' alt="sym" width="5%"> *2018.09 - 2022.06*, B.Eng. in Medical Information Engineering, Sichuan University. 
 
 # 💬 Talks
