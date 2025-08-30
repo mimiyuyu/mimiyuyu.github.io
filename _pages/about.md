@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year doctoral student at College of Biomedical Engineering, [Sichuan University](https://www.scu.edu.cn/), advised by Prof. Jing Zhang. I got my bachelor’s degree in Medical Information Engineering in 2022. I’m now working with Dr. Xiyue Wang (Stanford) and Sen Yang (Stanford) on histopathology image guided clinical tasks. Previously, I focused on the study of ct-guided surgical path planning system for lung puncture. 
+I am a first-year doctoral student at College of Biomedical Engineering, [Sichuan University](https://www.scu.edu.cn/), advised by Prof. Jing Zhang. I got my bachelor’s degree in Medical Information Engineering in 2022. I’m now working on histopathology image guided clinical tasks. Previously, I focused on the study of ct-guided surgical path planning system for lung puncture. 
 
 My research interest includes Computational Pathology and Biomedical Image Processing.
 
